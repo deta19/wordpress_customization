@@ -1,9 +1,11 @@
-# Ignore everything
-*
-
-!.gitignore
 !.htaccess
+!.gitignore
+!.editorconfig
+!.phpcs.xml.dist
+!README.md
+!CHANGELOG.md
+!composer.json
 
-# if the files to be tracked are in subdirectories
+/*
 wp-content/*
 !wp-content/themes/
