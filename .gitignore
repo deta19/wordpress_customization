@@ -2,6 +2,8 @@
 *
 
 !.gitignore
+!.htaccess
 
 # if the files to be tracked are in subdirectories
-!*/wp-content/themes
+wp-content/*
+!wp-content/themes/
