@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+!.gitignore
+
+# if the files to be tracked are in subdirectories
+!*/wp-content/themes
