@@ -1,3 +1,4 @@
+/*
 !.htaccess
 !.gitignore
 !.editorconfig
@@ -5,7 +6,6 @@
 !README.md
 !CHANGELOG.md
 !composer.json
-
-/*
-wp-content/*
-!wp-content/themes/
+!/wp-content
+/wp-content/*
+!/wp-content/themes
